@@ -36,5 +36,5 @@ IoT monitoring system integrated with sensors and automation for aquarium manage
 - System Design
 
 ## Contact
-- LinkedIn: www.linkedin.com/in/amin-zahin
-- Email: your-email@example.com
+- LinkedIn: https://my.linkedin.com/in/aminzahin
+- Email: muhamadmainzahin@gmail.com
