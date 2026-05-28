@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Amin 👋
 
-<!--
-**AminZahin/AminZahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bachelor of Computer Science (Hons.) in Netcentric Computing student at UiTM Shah Alam.
 
-Here are some ideas to get you started:
+I focus on building scalable web systems with interests in:
+- Full Stack Development
+- Cloud & Infrastructure
+- Cybersecurity
+- DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- PHP, Laravel, CodeIgniter 3
+- JavaScript, HTML, CSS
+- MySQL
+- Git & GitHub
+- Linux
+- REST APIs
+- MinIO
+- IoT Integration
+
+## Featured Projects
+
+### 📚 BookPaw Automated Management System
+A web-based system that automates book stock counting and sales reporting using image-based processing.
+
+### ☁️ Cloud Storage Module
+Enterprise cloud synchronization module with upload, download, and file management capabilities.
+
+### 🐠 Smart Aquarium IoT
+IoT monitoring system integrated with sensors and automation for aquarium management.
+
+## Currently Exploring
+- Cloud Infrastructure
+- DevOps Practices
+- Secure Web Development
+- System Design
+
+## Contact
+- LinkedIn: www.linkedin.com/in/amin-zahin
+- Email: your-email@example.com
