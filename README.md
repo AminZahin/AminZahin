@@ -17,12 +17,12 @@ I enjoy building systems that connect development, infrastructure, automation, a
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| ** Development** | PHP, Laravel, CodeIgniter 3, JavaScript, HTML, CSS, REST APIs |
-| ** Infrastructure & DevOps** | Docker, Linux, MinIO, Nginx, GitHub Actions |
-| ** Version Control & Workflow** | Git, GitHub, Sourcetree, OneDev |
-| ** Database** | MySQL, MariaDB |
-| ** Cloud & Systems** | File Synchronization Systems, Basic Cloud Deployment |
-| ** Other Areas** | IoT Integration, Web Security, System Design |
+| Development | PHP, Laravel, CodeIgniter 3, JavaScript, HTML, CSS, REST APIs |
+| Infrastructure & DevOps | Docker, Linux, MinIO, Nginx, GitHub Actions |
+| Version Control & Workflow | Git, GitHub, Sourcetree, OneDev |
+| Database | MySQL, MariaDB |
+| Cloud & Systems | File Synchronization Systems, Basic Cloud Deployment |
+| Other Areas | IoT Integration, Web Security, System Design |
 
 ## Contact
 - LinkedIn: https://my.linkedin.com/in/aminzahin
