@@ -1,39 +1,26 @@
-# Hi, I'm Amin 👋
+Hi, I'm Amin 👋
 
-Bachelor of Computer Science (Hons.) in Netcentric Computing student at UiTM Shah Alam.
+Netcentric Computing graduate with interests in backend development, cloud infrastructure, and DevOps practices.
 
-I focus on building scalable web systems with interests in:
-- Full Stack Development
-- Cloud & Infrastructure
-- Cybersecurity
-- DevOps
+I enjoy building systems that connect development, infrastructure, automation, and real-world workflows. My experience includes web application development, cloud storage systems, infrastructure-related workflows, and secure development practices.
 
-## Tech Stack
-- PHP, Laravel, CodeIgniter 3
-- JavaScript, HTML, CSS
-- MySQL
-- Git & GitHub
-- Linux
-- REST APIs
-- MinIO
-- IoT Integration
+🚀 What I'm Currently Working On
 
-## Featured Projects
+- Cloud storage and file synchronization systems
+- Backend web application development
+- DevOps and infrastructure learning
+- Docker and Linux environments
+- Secure web development practices
+- System architecture and deployment workflows
 
-### 📚 BookPaw Automated Management System
-A web-based system that automates book stock counting and sales reporting using image-based processing.
+🛠️ Tools & Technologies
 
-### ☁️ Cloud Storage Module
-Enterprise cloud synchronization module with upload, download, and file management capabilities.
-
-### 🐠 Smart Aquarium IoT
-IoT monitoring system integrated with sensors and automation for aquarium management.
-
-## Currently Exploring
-- Cloud Infrastructure
-- DevOps Practices
-- Secure Web Development
-- System Design
+Development :	                PHP, Laravel, CodeIgniter 3, JavaScript, HTML, CSS, REST APIs
+Infrastructure & DevOps	:     Docker, Linux, MinIO, Nginx, GitHub Actions 
+Version Control & Workflow :  Git, GitHub, Sourcetree, OneDev
+Database :                    MySQL, MariaDB
+Cloud & Systems	:             File Synchronization Systems, Basic Cloud Deployment
+Other Areas	:                 IoT Integration, Web Security, System Design
 
 ## Contact
 - LinkedIn: https://my.linkedin.com/in/aminzahin
